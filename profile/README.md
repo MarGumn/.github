@@ -1,4 +1,4 @@
-# Märjamaa Gümnaasium 🎓
+# Märjamaa Gümnaasium
 
 **Märjamaa Gümnaasiumi avalik GitHub profiil**  
 *Public GitHub Profile of Märjamaa Gymnasium*
@@ -18,7 +18,7 @@ Märjamaa Gümnaasium on Eesti gümnaasium, mis pakub kvaliteetset haridust ja t
 - **📍 Asukoht / Location:** Märjamaa, Estonia
 - **🌐 Koduleht / Website:** [marjamaa.edu.ee](https://marjamaa.edu.ee)
 
-## 💻 GitHub Projects
+## 💻 GitHub
 
 Selles organisatsioonis leiate:
 - Õpilaste ja õpetajate programmeerimisprojektid
